@@ -1,10 +1,13 @@
-Site_Name: ModularConnect.io
-nav: 
-    - Home:
-    - About:
-    - Project:
+site_name: ModularConnect.io
+site_url: https://modularconnect.github.io/mkdocs-bootswatch/
+site_description: A strong and powerful middleware to automate business processes
+site_author: ModularConnect.io
 
-theme: flatly
+repo_url: https://github.com/mkdocs/mkdocs-bootswatch
+
+copyright: Copyright &copy; 2014 <a href="https://twitter.com/_tomchristie">Tom Christie</a>, <a href="http://www.dougalmatthews.com/">Dougal Matthews</a>.
+
+theme:
     name: flatly
 
 markdown_extensions:

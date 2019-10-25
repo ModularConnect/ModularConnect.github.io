@@ -1,11 +1,11 @@
 site_name: ModularConnect.io
-site_url: https://modularconnect.github.io/docs/
+site_url: https://modularconnect.github.io/ModularConnect.github.io/docs/index.md
 site_description: A strong and powerful middleware to automate business processes
 site_author: ModularConnect.io
 
-repo_url: https://ModularConnect.github.io/
+repo_url: https://modularconnect.github.io/ModularConnect.github.io/
 
-copyright: Copyright &copy; 2014 <a href="https://twitter.com/_tomchristie">Tom Christie</a>, <a href="http://www.dougalmatthews.com/">Dougal Matthews</a>.
+
 
 theme:
     name: flatly

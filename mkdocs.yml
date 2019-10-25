@@ -1,4 +1,7 @@
 site_name: ModularConnect.io
+nav:
+    - Home: index.md
+    - About: about.md
 site_url: https://modularconnect.github.io/ModularConnect.github.io/docs/index.md
 site_description: A strong and powerful middleware to automate business processes
 site_author: ModularConnect.io

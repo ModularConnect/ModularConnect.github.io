@@ -1,0 +1,13 @@
+site_name: MkDocs Bootswatch Themes
+
+copyright: Copyright &copy; 2014 <a href="https://twitter.com/_tomchristie">Tom Christie</a>, <a href="http://www.dougalmatthews.com/">Dougal Matthews</a>.
+
+theme:
+    name: flatly
+
+markdown_extensions:
+    - toc:
+        permalink: '#'
+
+plugins:
+    - search

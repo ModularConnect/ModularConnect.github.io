@@ -1,6 +1,5 @@
-title: Home
 
-# MkDocs Bootstrap Theme
+# Welcome to ModularConnect.io 
 
 This project provides [MkDocs] themes for the different Bootstrap themes
 provided by the [Bootswatch] project.

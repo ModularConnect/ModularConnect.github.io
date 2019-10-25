@@ -1,4 +1,10 @@
-theme:
+Site_Name: ModularConnect.io
+nav: 
+    - Home:
+    - About:
+    - Project:
+
+theme: flatly
     name: flatly
 
 markdown_extensions:
